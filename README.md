@@ -5,6 +5,8 @@ Copy from the original website that went offline in late 2015
 This is the home page for the <i>Frederiksberg</i> beamer theme
 (for typesetting presentation slides in LaTeX).
 
+Last edited 2011-05-13
+
 <h2>Installation</h2>
 
 Get either the <tt>.tgz</tt> (Linux/Mac) or <tt>.zip</tt> (Windows) file(s)
@@ -131,5 +133,5 @@ The commented <tt>sudo tar</tt> command should only be run
 </li>
 </ul>
 </div>
-<div id="footer"><div class="text">
-<a href="https://web.archive.org/web/20150605233943/http://www.matdat.life.ku.dk/~henrikp" title="Henrik's home page">Henrik Laurberg Pedersen</a>&nbsp;<a href="mailto:henrikp@life.ku.dk" title="Send mail to Henrik">&lt;henrikp@life.ku.dk&gt;</a> | Last change: 2011-05-13</div></div>
+<a href="http://www.math.ku.dk/~henrikp/" title="Henrik's home page">Henrik Laurberg Pedersen</a>&nbsp;<a 
+</div>

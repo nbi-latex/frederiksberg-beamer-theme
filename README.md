@@ -1,5 +1,8 @@
 # Frederiksberg-beamer-theme
+
 Copy from the original website that went offline in late 2015
+
+The original website is on [archive.org](https://web.archive.org/web/20150904031917/http://matdat.life.ku.dk/LaTeX/Frederiksberg/).
 
 <div class="text" id="content">
 This is the home page for the <i>Frederiksberg</i> beamer theme

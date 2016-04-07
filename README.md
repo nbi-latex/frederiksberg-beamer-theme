@@ -4,11 +4,7 @@ Copy from the original website that went offline in late 2015
 
 The original website is on [archive.org](https://web.archive.org/web/20150904031917/http://matdat.life.ku.dk/LaTeX/Frederiksberg/).
 
-<div class="text" id="content">
-This is the home page for the <i>Frederiksberg</i> beamer theme
-(for typesetting presentation slides in LaTeX).
-
-Last edited 2011-05-13
+Below is part of the original Frederiksberg homepage for reference. Last edited 2011-05-13.
 
 <h2>Installation</h2>
 
